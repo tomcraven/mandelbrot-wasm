@@ -1,0 +1,9 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Tom Craven <tom.cass.craven@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
